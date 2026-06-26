@@ -1,0 +1,6 @@
+{
+  "name": "Phone Kingdom",
+  "description": "ប្រព័ន្ធគ្រប់គ្រងហាងលក់ទូរស័ព្ទដៃ និងទំព័រទិញទំនិញ - Phone Kingdom Dashboard & Store Interface with fully local storage capability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
